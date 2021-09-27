@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightGray">#BCCBE1</color>
+    <color name="darkGray">#636362</color>
+    <color name="layoutBackground">#BCBCBC</color>
+
+    <color name="numberBtnDefault">#6C6C6C</color>
+    <color name="numberBtnPressed">#8E8E8E</color>
+
+    <color name="operationBtnDefault">#8E8E8E</color>
+    <color name="operationBtnPressed">#AEAEAE</color>
+
+    <color name="equalBtnDefault">#FFFF3B00</color>
+    <color name="equalBtnPressed">#FA9172</color>
+    <color name="equalBtnOutline">#C33F01</color>
+
+    <color name="resetBtnDefault">#9AE78254</color>
+    <color name="resetBtnPressed">#F8AF8C</color>
+    <color name="resetBtnDefaultOutline">#FF3B00</color>
+    <color name="resetBtnPressedOutline">#F4601B</color>
+
+
+</resources>
